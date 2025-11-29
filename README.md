@@ -6,10 +6,13 @@
    ```
    1A D5 00 00 00 00 00 00
    ```
+   
    ![A](search.png)
+   
    These bytes always come after the OBF key
    
-2. Сopy the key
+3. Сopy the key
+   
 ![O](hex.png)
 
 The key in this: 
